@@ -9,4 +9,4 @@
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjssantana)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjssantana)
