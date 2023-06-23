@@ -9,4 +9,4 @@
 </picture>
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjssantana)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjssantana)](https://github.com/anuraghazra/github-readme-stats)
