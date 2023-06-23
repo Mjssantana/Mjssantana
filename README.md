@@ -8,4 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjssantana)](https://github.com/Mjssantana/github-readme-stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true" />
+</picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjssantana)](https://github.com/Mjssantana/github-readme-stats)
