@@ -8,6 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true" />
 </picture>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjssantana&hide_progress=true)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjssantana)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjssantana)](https://github.com/anuraghazra/github-readme-stats)-->
