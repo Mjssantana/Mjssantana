@@ -2,8 +2,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark, card_width: 250px, locale: pt)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true&theme=transparent&locale=pt-br&card_width=250px"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true" />
 </picture>
