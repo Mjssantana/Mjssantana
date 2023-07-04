@@ -1,12 +1,12 @@
 ## Olá Meu nome é Maycon Santana 👋
 <div>
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true&theme=transparent&count_private=true&locale=pt-br&card_width=250px&custom_title=Estatisticas+de+MayconSantana"
     media="(prefers-color-scheme: dark)"
   />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mjssantana&show_icons=true" />
-</picture>
+</picture> -->
 <!--
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjssantana&layout=compact&langs_count=16&theme=transparent"/>
 -->
